@@ -20,7 +20,6 @@ public class PascalsTriangle {
                 }
             }
            // System.out.println(result.get(i));
-
         }
         System.out.println(result.toString());
     }
